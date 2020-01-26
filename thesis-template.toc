@@ -1,0 +1,16 @@
+\contentsline {chapter}{ABSTRACT}{ii}%
+\contentsline {chapter}{DEDICATION}{iii}%
+\contentsline {chapter}{ACKNOWLEDGMENTS}{iv}%
+\contentsline {chapter}{LIST OF TABLES}{vi}%
+\contentsline {chapter}{LIST OF FIGURES}{vii}%
+\contentsline {chapter}{\numberline {1}INTRODUCTION}{1}%
+\contentsline {chapter}{\numberline {2}LITERATURE REVIEW}{2}%
+\contentsline {chapter}{\numberline {3}APPROACH (BECAUSE A LONGER-THAN-1-LINE CHAPTER TITLE IS IMPORTANT)}{3}%
+\contentsline {chapter}{\numberline {4}EXPERIMENT}{4}%
+\contentsline {chapter}{\numberline {5}DISCUSSION}{5}%
+\contentsline {chapter}{\numberline {6}CONCLUSION}{6}%
+\contentsline {chapter}{REFERENCES}{7}%
+\cftchapnumwidth 1em\relax 
+\global \c@tocdepth 0\relax 
+\renewcommand {\cftchappresnum }{}
+\contentsline {chapter}{APPENDIX \numberline {A}A BIG APPENDIX}{8}%

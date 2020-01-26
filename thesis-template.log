@@ -1,0 +1,658 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7250 64-bit) (preloaded format=pdflatex 2020.1.26)  26 JAN 2020 14:08
+entering extended mode
+**./thesis-template.tex
+(thesis-template.tex
+LaTeX2e <2019-10-01> patch level 3
+(uathesis.cls
+Document Class: uathesis 
+("C:\Users\bolus\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\ifthen.sty"
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+("C:\Users\bolus\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\report.cls"
+Document Class: report 2019/10/25 v1.4k Standard LaTeX document class
+("C:\Users\bolus\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\size12.clo"
+File: size12.clo 2019/10/25 v1.4k Standard LaTeX file (size option)
+)
+\c@part=\count80
+\c@chapter=\count81
+\c@section=\count82
+\c@subsection=\count83
+\c@subsubsection=\count84
+\c@paragraph=\count85
+\c@subparagraph=\count86
+\c@figure=\count87
+\c@table=\count88
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+("C:\Users\bolus\AppData\Local\Programs\MiKTeX 2.9\tex/latex/geometry\geometry.
+sty"
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+("C:\Users\bolus\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\keyval.st
+y"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+("C:\Users\bolus\AppData\Local\Programs\MiKTeX 2.9\tex/generic/iftex\ifvtex.sty
+"
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+ ("C:\Users\bolus\AppData\Local\Programs\MiKTeX 2.9\tex/generic/iftex\iftex.sty
+"
+Package: iftex 2019/11/07 v1.0c TeX engine tests
+))
+\Gm@cnth=\count89
+\Gm@cntv=\count90
+\c@Gm@tempcnt=\count91
+\Gm@bindingoffset=\dimen103
+\Gm@wd@mp=\dimen104
+\Gm@odd@mp=\dimen105
+\Gm@even@mp=\dimen106
+\Gm@layoutwidth=\dimen107
+\Gm@layoutheight=\dimen108
+\Gm@layouthoffset=\dimen109
+\Gm@layoutvoffset=\dimen110
+\Gm@dimlist=\toks15
+
+("C:\Users\bolus\AppData\Local\Programs\MiKTeX 2.9\tex/latex/geometry\geometry.
+cfg"))
+("C:\Users\bolus\AppData\Local\Programs\MiKTeX 2.9\tex/latex/titlesec\titlesec.
+sty"
+Package: titlesec 2019/10/16 v2.13 Sectioning titles
+\ttl@box=\box27
+\beforetitleunit=\skip43
+\aftertitleunit=\skip44
+\ttl@plus=\dimen111
+\ttl@minus=\dimen112
+\ttl@toksa=\toks16
+\titlewidth=\dimen113
+\titlewidthlast=\dimen114
+\titlewidthfirst=\dimen115
+)
+("C:\Users\bolus\AppData\Local\Programs\MiKTeX 2.9\tex/latex/setspace\setspace.
+sty"
+Package: setspace 2011/12/19 v6.7a set line spacing
+)
+("C:\Users\bolus\AppData\Local\Programs\MiKTeX 2.9\tex/latex/textcase\textcase.
+sty"
+Package: textcase 2019/09/14 v1.00 Text only upper/lower case changing (DPC)
+)
+("C:\Users\bolus\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tocloft\tocloft.st
+y"
+Package: tocloft 2017/08/31 v2.3i parameterised ToC, etc., typesetting
+Package tocloft Info: The document has chapter divisions on input line 51.
+\cftparskip=\skip45
+\cftbeforetoctitleskip=\skip46
+\cftaftertoctitleskip=\skip47
+\cftbeforepartskip=\skip48
+\cftpartnumwidth=\skip49
+\cftpartindent=\skip50
+\cftbeforechapskip=\skip51
+\cftchapindent=\skip52
+\cftchapnumwidth=\skip53
+\cftbeforesecskip=\skip54
+\cftsecindent=\skip55
+\cftsecnumwidth=\skip56
+\cftbeforesubsecskip=\skip57
+\cftsubsecindent=\skip58
+\cftsubsecnumwidth=\skip59
+\cftbeforesubsubsecskip=\skip60
+\cftsubsubsecindent=\skip61
+\cftsubsubsecnumwidth=\skip62
+\cftbeforeparaskip=\skip63
+\cftparaindent=\skip64
+\cftparanumwidth=\skip65
+\cftbeforesubparaskip=\skip66
+\cftsubparaindent=\skip67
+\cftsubparanumwidth=\skip68
+\cftbeforeloftitleskip=\skip69
+\cftafterloftitleskip=\skip70
+\cftbeforefigskip=\skip71
+\cftfigindent=\skip72
+\cftfignumwidth=\skip73
+\c@lofdepth=\count92
+\c@lotdepth=\count93
+\cftbeforelottitleskip=\skip74
+\cftafterlottitleskip=\skip75
+\cftbeforetabskip=\skip76
+\cfttabindent=\skip77
+\cfttabnumwidth=\skip78
+)
+("C:\Users\bolus\AppData\Local\Programs\MiKTeX 2.9\tex/latex/glossaries/base\gl
+ossaries.sty"
+Package: glossaries 2019/12/06 v4.44 (NLCT)
+
+("C:\Users\bolus\AppData\Local\Programs\MiKTeX 2.9\tex/latex/xkeyval\xkeyval.st
+y"
+Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
+
+("C:\Users\bolus\AppData\Local\Programs\MiKTeX 2.9\tex/generic/xkeyval\xkeyval.
+tex"
+("C:\Users\bolus\AppData\Local\Programs\MiKTeX 2.9\tex/generic/xkeyval\xkvutils
+.tex"
+\XKV@toks=\toks17
+\XKV@tempa@toks=\toks18
+)
+\XKV@depth=\count94
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+("C:\Users\bolus\AppData\Local\Programs\MiKTeX 2.9\tex/latex/mfirstuc\mfirstuc.
+sty"
+Package: mfirstuc 2017/11/14 v2.06 (NLCT)
+
+("C:\Users\bolus\AppData\Local\Programs\MiKTeX 2.9\tex/latex/etoolbox\etoolbox.
+sty"
+Package: etoolbox 2019/09/21 v2.5h e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count95
+)
+\@glsmfirst=\toks19
+\@glsmrest=\toks20
+)
+("C:\Users\bolus\AppData\Local\Programs\MiKTeX 2.9\tex/latex/xfor\xfor.sty"
+Package: xfor 2009/02/05 v1.05 (NLCT)
+)
+("C:\Users\bolus\AppData\Local\Programs\MiKTeX 2.9\tex/latex/datatool\datatool-
+base.sty"
+Package: datatool-base 2019/09/27 v2.32 (NLCT)
+
+("C:\Users\bolus\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsmath.st
+y"
+Package: amsmath 2019/11/16 v2.17d AMS math features
+\@mathmargin=\skip79
+
+For additional information on amsmath, use the `?' option.
+
+("C:\Users\bolus\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amstext.st
+y"
+Package: amstext 2000/06/29 v2.01 AMS text
+
+("C:\Users\bolus\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsgen.sty
+"
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks21
+\ex@=\dimen116
+))
+("C:\Users\bolus\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsbsy.sty
+"
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen117
+)
+("C:\Users\bolus\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsopn.sty
+"
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count96
+LaTeX Info: Redefining \frac on input line 227.
+\uproot@=\count97
+\leftroot@=\count98
+LaTeX Info: Redefining \overline on input line 389.
+\classnum@=\count99
+\DOTSCASE@=\count100
+LaTeX Info: Redefining \ldots on input line 486.
+LaTeX Info: Redefining \dots on input line 489.
+LaTeX Info: Redefining \cdots on input line 610.
+\Mathstrutbox@=\box28
+\strutbox@=\box29
+\big@size=\dimen118
+LaTeX Font Info:    Redeclaring font encoding OML on input line 733.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 734.
+\macc@depth=\count101
+\c@MaxMatrixCols=\count102
+\dotsspace@=\muskip10
+\c@parentequation=\count103
+\dspbrk@lvl=\count104
+\tag@help=\toks22
+\row@=\count105
+\column@=\count106
+\maxfields@=\count107
+\andhelp@=\toks23
+\eqnshift@=\dimen119
+\alignsep@=\dimen120
+\tagshift@=\dimen121
+\tagwidth@=\dimen122
+\totwidth@=\dimen123
+\lineht@=\dimen124
+\@envbody=\toks24
+\multlinegap=\skip80
+\multlinetaggap=\skip81
+\mathdisplay@stack=\toks25
+LaTeX Info: Redefining \[ on input line 2858.
+LaTeX Info: Redefining \] on input line 2859.
+)
+("C:\Users\bolus\AppData\Local\Programs\MiKTeX 2.9\tex/latex/substr\substr.sty"
+Package: substr 2009/10/20 v1.2 Handle substrings
+\c@su@anzahl=\count108
+)
+("C:\Users\bolus\AppData\Local\Programs\MiKTeX 2.9\tex/latex/datatool\datatool-
+fp.sty"
+Package: datatool-fp 2019/09/27 v2.32 (NLCT)
+ ("C:\Users\bolus\AppData\Local\Programs\MiKTeX 2.9\tex/latex/fp\fp.sty"
+Package: fp 1995/04/02
+`Fixed Point Package', Version 0.8, April 2, 1995 (C) Michael Mehlich
+("C:\Users\bolus\AppData\Local\Programs\MiKTeX 2.9\tex/latex/fp\defpattern.sty"
+Package: defpattern 1994/10/12
+\actioncount=\count109
+) ("C:\Users\bolus\AppData\Local\Programs\MiKTeX 2.9\tex/latex/fp\fp-basic.sty"
+Package: fp-basic 1996/05/13
+\FP@xs=\count110
+\FP@xia=\count111
+\FP@xib=\count112
+\FP@xfa=\count113
+\FP@xfb=\count114
+\FP@rega=\count115
+\FP@regb=\count116
+\FP@regs=\count117
+\FP@times=\count118
+) ("C:\Users\bolus\AppData\Local\Programs\MiKTeX 2.9\tex/latex/fp\fp-addons.sty
+"
+Package: fp-addons 1995/03/15
+) ("C:\Users\bolus\AppData\Local\Programs\MiKTeX 2.9\tex/latex/fp\fp-snap.sty"
+Package: fp-snap 1995/04/05
+) ("C:\Users\bolus\AppData\Local\Programs\MiKTeX 2.9\tex/latex/fp\fp-exp.sty"
+Package: fp-exp 1995/04/03
+)
+("C:\Users\bolus\AppData\Local\Programs\MiKTeX 2.9\tex/latex/fp\fp-trigo.sty"
+Package: fp-trigo 1995/04/14
+)
+("C:\Users\bolus\AppData\Local\Programs\MiKTeX 2.9\tex/latex/fp\fp-pas.sty"
+Package: fp-pas 1994/08/29
+)
+("C:\Users\bolus\AppData\Local\Programs\MiKTeX 2.9\tex/latex/fp\fp-random.sty"
+Package: fp-random 1995/02/23
+\FPseed=\count119
+) ("C:\Users\bolus\AppData\Local\Programs\MiKTeX 2.9\tex/latex/fp\fp-eqn.sty"
+Package: fp-eqn 1995/04/03
+)
+("C:\Users\bolus\AppData\Local\Programs\MiKTeX 2.9\tex/latex/fp\fp-upn.sty"
+Package: fp-upn 1996/10/21
+)
+("C:\Users\bolus\AppData\Local\Programs\MiKTeX 2.9\tex/latex/fp\fp-eval.sty"
+Package: fp-eval 1995/04/03
+)))
+\@dtl@toks=\toks26
+\@dtl@tmpcount=\count120
+\dtl@tmplength=\skip82
+\dtl@sortresult=\count121
+\@dtl@numgrpsepcount=\count122
+\@dtl@datatype=\count123
+\dtl@codeA=\count124
+\dtl@codeB=\count125
+\@dtl@foreach@level=\count126
+)
+("C:\Users\bolus\AppData\Local\Programs\MiKTeX 2.9\tex/latex/glossaries/base\gl
+ossaries-compatible-307.sty"
+Package: glossaries-compatible-307 2019/12/06 v4.44 (NLCT)
+)
+\gls@level=\count127
+\@gls@tmpb=\toks27
+\gls@tmplen=\skip83
+\glskeylisttok=\toks28
+\glslabeltok=\toks29
+\glsshorttok=\toks30
+\glslongtok=\toks31
+
+("C:\Users\bolus\AppData\Local\Programs\MiKTeX 2.9\tex/latex/glossaries/styles\
+glossary-hypernav.sty"
+Package: glossary-hypernav 2019/12/06 v4.44 (NLCT)
+)
+("C:\Users\bolus\AppData\Local\Programs\MiKTeX 2.9\tex/latex/glossaries/styles\
+glossary-list.sty"
+Package: glossary-list 2019/12/06 v4.44 (NLCT)
+\glslistdottedwidth=\skip84
+)
+("C:\Users\bolus\AppData\Local\Programs\MiKTeX 2.9\tex/latex/glossaries/styles\
+glossary-long.sty"
+Package: glossary-long 2019/12/06 v4.44 (NLCT)
+
+("C:\Users\bolus\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\longtable.st
+y"
+Package: longtable 2019/02/06 v4.12 Multi-page Table package (DPC)
+\LTleft=\skip85
+\LTright=\skip86
+\LTpre=\skip87
+\LTpost=\skip88
+\LTchunksize=\count128
+\LTcapwidth=\dimen125
+\LT@head=\box30
+\LT@firsthead=\box31
+\LT@foot=\box32
+\LT@lastfoot=\box33
+\LT@cols=\count129
+\LT@rows=\count130
+\c@LT@tables=\count131
+\c@LT@chunks=\count132
+\LT@p@ftn=\toks32
+)
+\glsdescwidth=\skip89
+\glspagelistwidth=\skip90
+)
+("C:\Users\bolus\AppData\Local\Programs\MiKTeX 2.9\tex/latex/glossaries/styles\
+glossary-super.sty"
+Package: glossary-super 2019/12/06 v4.44 (NLCT)
+
+("C:\Users\bolus\AppData\Local\Programs\MiKTeX 2.9\tex/latex/supertabular\super
+tabular.sty"
+Package: supertabular 2004/02/20 v4.1e the supertabular environment
+\c@tracingst=\count133
+\ST@wd=\dimen126
+\ST@rightskip=\skip91
+\ST@leftskip=\skip92
+\ST@parfillskip=\skip93
+\ST@pageleft=\dimen127
+\ST@headht=\dimen128
+\ST@tailht=\dimen129
+\ST@pagesofar=\dimen130
+\ST@pboxht=\dimen131
+\ST@lineht=\dimen132
+\ST@stretchht=\dimen133
+\ST@prevht=\dimen134
+\ST@toadd=\dimen135
+\ST@dimen=\dimen136
+\ST@pbox=\box34
+))
+("C:\Users\bolus\AppData\Local\Programs\MiKTeX 2.9\tex/latex/glossaries/styles\
+glossary-tree.sty"
+Package: glossary-tree 2019/12/06 v4.44 (NLCT)
+\glstreeindent=\skip94
+))
+("C:\Users\bolus\AppData\Local\Programs\MiKTeX 2.9\tex/latex/glossaries/styles\
+glossary-longragged.sty"
+Package: glossary-longragged 2019/12/06 v4.44 (NLCT)
+
+("C:\Users\bolus\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\array.sty"
+Package: array 2019/08/31 v2.4l Tabular extension package (FMi)
+\col@sep=\dimen137
+\ar@mcellbox=\box35
+\extrarowheight=\dimen138
+\NC@list=\toks33
+\extratabsurround=\skip95
+\backup@length=\skip96
+\ar@cellbox=\box36
+))
+\glswrite=\write3
+\glo@main@file=\write4
+\openout4 = `thesis-template.glo'.
+
+Package glossaries Info: Writing glossary file thesis-template.glo on input lin
+e 303.
+)
+("C:\Users\bolus\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphicx.
+sty"
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\bolus\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphics.
+sty"
+Package: graphics 2019/11/01 v1.3d Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\bolus\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\trig.sty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+("C:\Users\bolus\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\graph
+ics.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+
+("C:\Users\bolus\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-def\pdfte
+x.def"
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen139
+\Gin@req@width=\dimen140
+)
+("C:\Users\bolus\AppData\Local\Programs\MiKTeX 2.9\tex/latex/cite\cite.sty"
+LaTeX Info: Redefining \cite on input line 302.
+LaTeX Info: Redefining \nocite on input line 332.
+Package: cite 2015/02/27  v 5.5
+)
+("C:\Users\bolus\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\color.sty
+"
+Package: color 2016/07/10 v1.1e Standard LaTeX Color (DPC)
+
+("C:\Users\bolus\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\color
+.cfg"
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: pdftex.def on input line 147.
+)
+("C:\Users\bolus\AppData\Local\Programs\MiKTeX 2.9\tex/latex/listings\listings.
+sty"
+\lst@mode=\count134
+\lst@gtempboxa=\box37
+\lst@token=\toks34
+\lst@length=\count135
+\lst@currlwidth=\dimen141
+\lst@column=\count136
+\lst@pos=\count137
+\lst@lostspace=\dimen142
+\lst@width=\dimen143
+\lst@newlines=\count138
+\lst@lineno=\count139
+\lst@maxwidth=\dimen144
+
+("C:\Users\bolus\AppData\Local\Programs\MiKTeX 2.9\tex/latex/listings\lstmisc.s
+ty"
+File: lstmisc.sty 2019/09/10 1.8c (Carsten Heinz)
+\c@lstnumber=\count140
+\lst@skipnumbers=\count141
+\lst@framebox=\box38
+)
+("C:\Users\bolus\AppData\Local\Programs\MiKTeX 2.9\tex/latex/listings\listings.
+cfg"
+File: listings.cfg 2019/09/10 1.8c listings configuration
+))
+Package: listings 2019/09/10 1.8c (Carsten Heinz)
+
+("C:\Users\bolus\AppData\Local\Programs\MiKTeX 2.9\tex/latex/natbib\natbib.sty"
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+
+Package natbib Warning: The `cite' package should not be used
+(natbib)                with natbib. Use option `sort' instead.
+
+\bibhang=\skip97
+\bibsep=\skip98
+LaTeX Info: Redefining \cite on input line 694.
+LaTeX Info: Redefining \citenum on input line 708.
+\c@NAT@ctr=\count142
+) (inc/glossary.tex)
+("C:\Users\bolus\AppData\Local\Programs\MiKTeX 2.9\tex/latex/appendix\appendix.
+sty"
+Package: appendix 2009/09/02 v1.2b extra appendix facilities
+\c@@pps=\count143
+\c@@ppsavesec=\count144
+\c@@ppsaveapp=\count145
+)
+
+LaTeX Warning: Unused global option(s):
+    [letter].
+
+(thesis-template.aux)
+\openout1 = `thesis-template.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 69.
+LaTeX Font Info:    ... okay on input line 69.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 69.
+LaTeX Font Info:    ... okay on input line 69.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 69.
+LaTeX Font Info:    ... okay on input line 69.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 69.
+LaTeX Font Info:    ... okay on input line 69.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 69.
+LaTeX Font Info:    ... okay on input line 69.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 69.
+LaTeX Font Info:    ... okay on input line 69.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: <default>
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(72.26999pt, 469.75502pt, 72.26999pt)
+* v-part:(T,H,B)=(72.26999pt, 650.43001pt, 72.26999pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=469.75502pt
+* \textheight=650.43001pt
+* \oddsidemargin=0.0pt
+* \evensidemargin=0.0pt
+* \topmargin=-37.0pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=44.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+
+("C:\Users\bolus\AppData\Local\Programs\MiKTeX 2.9\tex/context/base/mkii\supp-p
+df.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count146
+\scratchdimen=\dimen145
+\scratchbox=\box39
+\nofMPsegments=\count147
+\nofMParguments=\count148
+\everyMPshowfont=\toks35
+\MPscratchCnt=\count149
+\MPscratchDim=\dimen146
+\MPnumerator=\count150
+\makeMPintoPDFobject=\count151
+\everyMPtoPDFconversion=\toks36
+)
+("C:\Users\bolus\AppData\Local\Programs\MiKTeX 2.9\tex/latex/epstopdf-pkg\epsto
+pdf-base.sty"
+Package: epstopdf-base 2019-12-09 v2.10 Base part for package epstopdf
+
+("C:\Users\bolus\AppData\Local\Programs\MiKTeX 2.9\tex/generic/infwarerr\infwar
+err.sty"
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+("C:\Users\bolus\AppData\Local\Programs\MiKTeX 2.9\tex/latex/grfext\grfext.sty"
+Package: grfext 2019/12/03 v1.3 Manage graphics extensions (HO)
+
+("C:\Users\bolus\AppData\Local\Programs\MiKTeX 2.9\tex/generic/kvdefinekeys\kvd
+efinekeys.sty"
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+))
+("C:\Users\bolus\AppData\Local\Programs\MiKTeX 2.9\tex/latex/kvoptions\kvoption
+s.sty"
+Package: kvoptions 2019/11/29 v3.13 Key value format for package options (HO)
+
+("C:\Users\bolus\AppData\Local\Programs\MiKTeX 2.9\tex/generic/ltxcmds\ltxcmds.
+sty"
+Package: ltxcmds 2019/12/15 v1.24 LaTeX kernel commands for general use (HO)
+)
+("C:\Users\bolus\AppData\Local\Programs\MiKTeX 2.9\tex/generic/kvsetkeys\kvsetk
+eys.sty"
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+))
+("C:\Users\bolus\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pdftexcmds\pdftexc
+mds.sty"
+Package: pdftexcmds 2019/11/24 v0.31 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 504.
+)
+\c@lstlisting=\count152
+ [1
+
+\openout3 = `thesis-template.xdy'.
+
+{C:/Users/bolus/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}] [2] [2
+
+]
+No file thesis-template.gls.
+[3
+
+] [4
+
+] (thesis-template.toc)
+\tf@toc=\write5
+\openout5 = `thesis-template.toc'.
+
+ [5] (thesis-template.lot)
+\tf@lot=\write6
+\openout6 = `thesis-template.lot'.
+
+ [6]
+(thesis-template.lof)
+\tf@lof=\write7
+\openout7 = `thesis-template.lof'.
+
+ [7] (body-template.tex
+Chapter 1.
+<fig/shapes.pdf, id=30, 539.01375pt x 139.52126pt>
+File: fig/shapes.pdf Graphic file (type pdf)
+<use fig/shapes.pdf>
+Package pdftex.def Info: fig/shapes.pdf  used on input line 9.
+(pdftex.def)             Requested size: 361.34999pt x 93.53409pt.
+[1
+
+ <./fig/shapes.pdf>]
+Chapter 2.
+[2
+
+]
+Chapter 3.
+(tab/love-shapes.tex) [3
+
+]
+Chapter 4.
+[4
+
+]
+Chapter 5.
+[5
+
+]
+Chapter 6.
+(thesis-template.bbl [6
+
+]) [7
+
+]
+APPENDIX A.
+) [8
+
+] (thesis-template.aux) ) 
+Here is how much of TeX's memory you used:
+ 9401 strings out of 492482
+ 139743 string characters out of 3121575
+ 292943 words of memory out of 3000000
+ 13549 multiletter control sequences out of 15000+200000
+ 7704 words of font info for 28 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 58i,8n,47p,1031b,449s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Users/bolus/AppData/Local/Programs/MiKTeX 2.9/font
+s/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/bolus/AppData/Local/Programs/Mi
+KTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/bolus/AppData/Loca
+l/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/bolus/
+AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti12.pfb>
+Output written on thesis-template.pdf (16 pages, 67213 bytes).
+PDF statistics:
+ 73 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 6 words of extra memory for PDF output out of 10000 (max. 10000000)
+
