@@ -1,0 +1,56 @@
+
+\chapter{INTRODUCTION}
+
+Take a look at Figure \ref{fig:shapes}. It has some shapes. They're very
+complex and interesting shapes. I could gaze at them for hours.
+
+\begin{figure}
+  \centering
+  \includegraphics[width=5.0in]{fig/shapes.pdf}
+  \caption{Some shapes which I find very interesting. (has longer line than 1, so that we can try it in LoF.}
+  \label{fig:shapes}
+\end{figure}
+
+\chapter{LITERATURE REVIEW}
+Type or input{} a chapter. \cite{rocket-themoon2167}
+
+\chapter{APPROACH (BECAUSE A LONGER-THAN-1-LINE CHAPTER TITLE IS IMPORTANT)}
+Take a look at Table \ref{tab:love-shapes}. It shows how much I love certain
+shapes.
+
+\begin{table}
+  \centering
+  \input{tab/love-shapes.tex}
+  \caption{Shapes and corresponding love in Love Standard Units (LSU).}
+  \label{tab:love-shapes}
+\end{table}
+
+\chapter{EXPERIMENT}
+Type or input{} a chapter. \cite{rocket-themoon2167}
+
+\chapter{DISCUSSION}
+Type or input{} a chapter. \cite{rocket-themoon2167}
+
+\chapter{CONCLUSION}
+Type or input{} a chapter. \cite{rocket-themoon2167}
+
+%% Currently adding the references to the table of contents is not automatic
+%% So we are forced to do it manually.
+
+%% TODO: This is not a fix. This line has to come after the \chapter command
+%% in order for the correct page to be inferred for the table of contents.
+\renewcommand{\bibsection}{\topskip=1in\chapter*{REFERENCES}\topskip=0in \addcontentsline{toc}{chapter}{REFERENCES}}
+
+%% Generates the bibliography.
+\bibliographystyle{uathesis-plain}
+\bibliography{thesis-template}
+
+\begin{appendices}
+\addtocontents{toc}{\setlength{\cftchapnumwidth}{1em}}
+\renewcommand{\appendixname}{APPENDIX}
+\addtocontents{toc}{\setcounter{tocdepth}{0}}
+\addtocontents{toc}{\protect\renewcommand{\protect\cftchappresnum}{}}
+
+\chapter{A BIG APPENDIX}
+
+\end{appendices}
